@@ -1,0 +1,6 @@
+C:\Users\Krishna S\OneDrive\Desktop\Cognizant\Mandatory-Hands-On\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+C:\Users\Krishna S\OneDrive\Desktop\Cognizant\Mandatory-Hands-On\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+C:\Users\Krishna S\OneDrive\Desktop\Cognizant\Mandatory-Hands-On\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.AssemblyReference.cache
+C:\Users\Krishna S\OneDrive\Desktop\Cognizant\Mandatory-Hands-On\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\Krishna S\OneDrive\Desktop\Cognizant\Mandatory-Hands-On\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+C:\Users\Krishna S\OneDrive\Desktop\Cognizant\Mandatory-Hands-On\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.pdb
