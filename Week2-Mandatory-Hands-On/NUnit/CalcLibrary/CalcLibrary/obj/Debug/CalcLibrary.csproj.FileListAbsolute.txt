@@ -1,0 +1,6 @@
+C:\Users\Krishna S\OneDrive\Desktop\Cognizant\Mandatory-Hands-On\CalcLibrary\CalcLibrary\bin\Debug\CalcLibrary.dll
+C:\Users\Krishna S\OneDrive\Desktop\Cognizant\Mandatory-Hands-On\CalcLibrary\CalcLibrary\bin\Debug\CalcLibrary.pdb
+C:\Users\Krishna S\OneDrive\Desktop\Cognizant\Mandatory-Hands-On\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.csproj.AssemblyReference.cache
+C:\Users\Krishna S\OneDrive\Desktop\Cognizant\Mandatory-Hands-On\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Krishna S\OneDrive\Desktop\Cognizant\Mandatory-Hands-On\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.dll
+C:\Users\Krishna S\OneDrive\Desktop\Cognizant\Mandatory-Hands-On\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.pdb

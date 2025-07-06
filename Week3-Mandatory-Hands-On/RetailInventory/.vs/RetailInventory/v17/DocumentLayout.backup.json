@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week3-Mandatory-Hands-On\\RetailInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5324B682-2CBF-4A8F-9BD4-5CBC58D7FDF7}|RetailInventory\\RetailInventory.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week3-mandatory-hands-on\\retailinventory\\retailinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5324B682-2CBF-4A8F-9BD4-5CBC58D7FDF7}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5324B682-2CBF-4A8F-9BD4-5CBC58D7FDF7}|RetailInventory\\RetailInventory.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week3-mandatory-hands-on\\retailinventory\\retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5324B682-2CBF-4A8F-9BD4-5CBC58D7FDF7}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5324B682-2CBF-4A8F-9BD4-5CBC58D7FDF7}|RetailInventory\\RetailInventory.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week3-mandatory-hands-on\\retailinventory\\retailinventory\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5324B682-2CBF-4A8F-9BD4-5CBC58D7FDF7}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5324B682-2CBF-4A8F-9BD4-5CBC58D7FDF7}|RetailInventory\\RetailInventory.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week3-mandatory-hands-on\\retailinventory\\retailinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5324B682-2CBF-4A8F-9BD4-5CBC58D7FDF7}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week3-Mandatory-Hands-On\\RetailInventory\\RetailInventory\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week3-Mandatory-Hands-On\\RetailInventory\\RetailInventory\\AppDbContext.cs",
+              "RelativeToolTip": "RetailInventory\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:07:51.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week3-Mandatory-Hands-On\\RetailInventory\\RetailInventory\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week3-Mandatory-Hands-On\\RetailInventory\\RetailInventory\\Models\\Product.cs",
+              "RelativeToolTip": "RetailInventory\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:07:01.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week3-Mandatory-Hands-On\\RetailInventory\\RetailInventory\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week3-Mandatory-Hands-On\\RetailInventory\\RetailInventory\\Models\\Category.cs",
+              "RelativeToolTip": "RetailInventory\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:05:23.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week3-Mandatory-Hands-On\\RetailInventory\\RetailInventory\\Program.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week3-Mandatory-Hands-On\\RetailInventory\\RetailInventory\\Program.cs*",
+              "RelativeToolTip": "RetailInventory\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:01:25.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

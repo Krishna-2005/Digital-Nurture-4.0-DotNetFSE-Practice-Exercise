@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant\\Mandatory-Hands-On\\CalcLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A772C3A3-6BD5-4046-9369-5E49AF03773F}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant\\mandatory-hands-on\\calclibrary\\calclibrary.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A772C3A3-6BD5-4046-9369-5E49AF03773F}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|solutionrelative:calclibrary.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE319CA-F907-4853-A0AA-3F9EEDEE892B}|CalcLibrary\\CalcLibrary.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant\\mandatory-hands-on\\calclibrary\\calclibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE319CA-F907-4853-A0AA-3F9EEDEE892B}|CalcLibrary\\CalcLibrary.csproj|solutionrelative:calclibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant\\Mandatory-Hands-On\\CalcLibrary\\CalcLibrary.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalcLibrary.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant\\Mandatory-Hands-On\\CalcLibrary\\CalcLibrary.Tests\\CalculatorTests.cs*",
+              "RelativeToolTip": "CalcLibrary.Tests\\CalculatorTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:21:16.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant\\Mandatory-Hands-On\\CalcLibrary\\CalcLibrary\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalcLibrary\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant\\Mandatory-Hands-On\\CalcLibrary\\CalcLibrary\\Calculator.cs*",
+              "RelativeToolTip": "CalcLibrary\\Calculator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:18:11.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

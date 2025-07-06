@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant\\Mandatory-Hands-On\\CustomerCommLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13ADB7F6-CCF6-4D1E-9243-574CF5809FE0}|CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant\\mandatory-hands-on\\customercommlib\\customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ADB7F6-CCF6-4D1E-9243-574CF5809FE0}|CustomerComm.Tests\\CustomerComm.Tests.csproj|solutionrelative:customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC0F975-55EA-4AC1-86B7-E7C89A8FA2EE}|CustomerCommLib\\CustomerCommLib.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant\\mandatory-hands-on\\customercommlib\\customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC0F975-55EA-4AC1-86B7-E7C89A8FA2EE}|CustomerCommLib\\CustomerCommLib.csproj|solutionrelative:customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCommTests.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant\\Mandatory-Hands-On\\CustomerCommLib\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeDocumentMoniker": "CustomerComm.Tests\\CustomerCommTests.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant\\Mandatory-Hands-On\\CustomerCommLib\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeToolTip": "CustomerComm.Tests\\CustomerCommTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:44:04.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant\\Mandatory-Hands-On\\CustomerCommLib\\CustomerCommLib\\MailSender.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\MailSender.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant\\Mandatory-Hands-On\\CustomerCommLib\\CustomerCommLib\\MailSender.cs",
+              "RelativeToolTip": "CustomerCommLib\\MailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:42:35.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
