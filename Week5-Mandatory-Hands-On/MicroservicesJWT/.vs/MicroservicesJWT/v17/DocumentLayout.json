@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4301C55D-6F63-42D1-AF13-885A01937986}|UserService\\UserService.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week5-mandatory-hands-on\\microservicesjwt\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4301C55D-6F63-42D1-AF13-885A01937986}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4301C55D-6F63-42D1-AF13-885A01937986}|UserService\\UserService.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week5-mandatory-hands-on\\microservicesjwt\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4301C55D-6F63-42D1-AF13-885A01937986}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009D4714-E4A6-49A9-A3BF-297D79185DDB}|AuthService\\AuthService.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week5-mandatory-hands-on\\microservicesjwt\\authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{009D4714-E4A6-49A9-A3BF-297D79185DDB}|AuthService\\AuthService.csproj|solutionrelative:authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009D4714-E4A6-49A9-A3BF-297D79185DDB}|AuthService\\AuthService.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week5-mandatory-hands-on\\microservicesjwt\\authservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009D4714-E4A6-49A9-A3BF-297D79185DDB}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009D4714-E4A6-49A9-A3BF-297D79185DDB}|AuthService\\AuthService.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week5-mandatory-hands-on\\microservicesjwt\\authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009D4714-E4A6-49A9-A3BF-297D79185DDB}|AuthService\\AuthService.csproj|solutionrelative:authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4301C55D-6F63-42D1-AF13-885A01937986}|UserService\\UserService.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week5-mandatory-hands-on\\microservicesjwt\\userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4301C55D-6F63-42D1-AF13-885A01937986}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4301C55D-6F63-42D1-AF13-885A01937986}|UserService\\UserService.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week5-mandatory-hands-on\\microservicesjwt\\userservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4301C55D-6F63-42D1-AF13-885A01937986}|UserService\\UserService.csproj|solutionrelative:userservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4301C55D-6F63-42D1-AF13-885A01937986}|UserService\\UserService.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week5-mandatory-hands-on\\microservicesjwt\\userservice\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4301C55D-6F63-42D1-AF13-885A01937986}|UserService\\UserService.csproj|solutionrelative:userservice\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4301C55D-6F63-42D1-AF13-885A01937986}|UserService\\UserService.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week5-mandatory-hands-on\\microservicesjwt\\userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4301C55D-6F63-42D1-AF13-885A01937986}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009D4714-E4A6-49A9-A3BF-297D79185DDB}|AuthService\\AuthService.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week5-mandatory-hands-on\\microservicesjwt\\authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009D4714-E4A6-49A9-A3BF-297D79185DDB}|AuthService\\AuthService.csproj|solutionrelative:authservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009D4714-E4A6-49A9-A3BF-297D79185DDB}|AuthService\\AuthService.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week5-mandatory-hands-on\\microservicesjwt\\authservice\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009D4714-E4A6-49A9-A3BF-297D79185DDB}|AuthService\\AuthService.csproj|solutionrelative:authservice\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009D4714-E4A6-49A9-A3BF-297D79185DDB}|AuthService\\AuthService.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week5-mandatory-hands-on\\microservicesjwt\\authservice\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009D4714-E4A6-49A9-A3BF-297D79185DDB}|AuthService\\AuthService.csproj|solutionrelative:authservice\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\UserService\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "UserService\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\UserService\\Services\\UserService.cs",
+              "RelativeToolTip": "UserService\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:03:37.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.csproj",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\UserService\\UserService.csproj",
+              "RelativeDocumentMoniker": "UserService\\UserService.csproj",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\UserService\\UserService.csproj",
+              "RelativeToolTip": "UserService\\UserService.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T17:03:09.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\UserService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\UserService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:27:08.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\AuthService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:26:10.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T16:33:56.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:43:24.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\AuthService\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\AuthService\\appsettings.json",
+              "RelativeToolTip": "AuthService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T16:24:19.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\UserService\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "UserService\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\UserService\\Services\\IUserService.cs",
+              "RelativeToolTip": "UserService\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:03:50.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\AuthService\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "AuthService\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\AuthService\\Models\\LoginModel.cs",
+              "RelativeToolTip": "AuthService\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:26:45.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "AuthService\\Program.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\AuthService\\Program.cs",
+              "RelativeToolTip": "AuthService\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:24:40.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\AuthService\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthService\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\AuthService\\Services\\AuthService.cs",
+              "RelativeToolTip": "AuthService\\Services\\AuthService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIAwwB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:40:08.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\AuthService\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AuthService\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week5-Mandatory-Hands-On\\MicroservicesJWT\\AuthService\\Services\\IAuthService.cs",
+              "RelativeToolTip": "AuthService\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:39:55.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

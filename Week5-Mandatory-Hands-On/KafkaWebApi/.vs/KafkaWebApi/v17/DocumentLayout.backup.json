@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week4-Mandatory-Hands-On\\KafkaWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F86298-D821-462F-9FF3-62FBECB1F43C}|KafkaWebApi\\KafkaWebApi.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week4-mandatory-hands-on\\kafkawebapi\\kafkawebapi\\controllers\\kafkacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F86298-D821-462F-9FF3-62FBECB1F43C}|KafkaWebApi\\KafkaWebApi.csproj|solutionrelative:kafkawebapi\\controllers\\kafkacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F86298-D821-462F-9FF3-62FBECB1F43C}|KafkaWebApi\\KafkaWebApi.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week4-mandatory-hands-on\\kafkawebapi\\kafkawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F86298-D821-462F-9FF3-62FBECB1F43C}|KafkaWebApi\\KafkaWebApi.csproj|solutionrelative:kafkawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F86298-D821-462F-9FF3-62FBECB1F43C}|KafkaWebApi\\KafkaWebApi.csproj|c:\\users\\krishna s\\onedrive\\desktop\\cognizant-mandatory-hands-on\\week4-mandatory-hands-on\\kafkawebapi\\kafkawebapi\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F86298-D821-462F-9FF3-62FBECB1F43C}|KafkaWebApi\\KafkaWebApi.csproj|solutionrelative:kafkawebapi\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaController.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week4-Mandatory-Hands-On\\KafkaWebApi\\KafkaWebApi\\Controllers\\KafkaController.cs",
+              "RelativeDocumentMoniker": "KafkaWebApi\\Controllers\\KafkaController.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week4-Mandatory-Hands-On\\KafkaWebApi\\KafkaWebApi\\Controllers\\KafkaController.cs",
+              "RelativeToolTip": "KafkaWebApi\\Controllers\\KafkaController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:48:06.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week4-Mandatory-Hands-On\\KafkaWebApi\\KafkaWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week4-Mandatory-Hands-On\\KafkaWebApi\\KafkaWebApi\\Program.cs",
+              "RelativeToolTip": "KafkaWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:47:19.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week4-Mandatory-Hands-On\\KafkaWebApi\\KafkaWebApi\\services\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "KafkaWebApi\\services\\KafkaProducerService.cs",
+              "ToolTip": "C:\\Users\\Krishna S\\OneDrive\\Desktop\\Cognizant-Mandatory-Hands-On\\Week4-Mandatory-Hands-On\\KafkaWebApi\\KafkaWebApi\\services\\KafkaProducerService.cs",
+              "RelativeToolTip": "KafkaWebApi\\services\\KafkaProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:45:15.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
